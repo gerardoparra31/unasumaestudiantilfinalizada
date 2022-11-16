@@ -1,5 +1,3 @@
-# unasumaestudiantilfinalizada
-
 # Una suma estudiantil.
 
 ## ¿Qué es una suma?
